@@ -6,7 +6,7 @@
 
 ## Short text
 
-Video scoreboards on corner sections for FIFA Manager 13, 14, and 26. Corners work. Behind-goal and marathon stands break while the mod is installed. Back up `StadiumDB.xml` and `Stadelems.big`.
+Corner video scoreboards for FM13, FM14, FM26. **Corners only** (behind-goal and marathon break). **Roof required:** build roof first on the lowest row, then place scoreboard after the roof. If the board is hidden, extend the roof.
 
 GitHub: https://github.com/DNZYDeniz/fifamanager-corner-scoreboard-mod
 
@@ -14,30 +14,25 @@ GitHub: https://github.com/DNZYDeniz/fifamanager-corner-scoreboard-mod
 
 ### Fifa Manager Unlock Corner Scoreboard Mod
 
-FIFA Manager 13, 14, 26 | Stadium editor | Corner-type stadiums
+**IMPORTANT**
 
-Vanilla corners often only give you ground scoreboards in bad spots. This mod unlocks Video Screen sizes on corners and places them in front of the stand.
+1. **Corners only.** Behind-goal and marathon scoreboards do not work with this mod.
+2. **Build a roof first.** The scoreboard attaches to the roof. Place the roof on the lowest row, then place the scoreboard after the roof.
+3. **Board not visible?** Roof too small = scoreboard stuck inside the tribune. Extend the roof outward, then place the scoreboard again.
 
-**Works:** corner tribunes  
-**Breaks:** behind-goal and marathon stands
+Unlocks Video Screen sizes on corner sections in corner-type stadiums.
 
-**Install**
-1. Close the game
-2. Back up generator files
-3. Copy mod files to `data\stadium\generator\`
-4. Delete old corner boards and place again
+**Install:** back up generator files, copy mod files to `data\stadium\generator\`, build roof, then place scoreboard.
 
-**Uninstall:** restore your backup.
+**Uninstall:** restore backup.
 
 ## Forum bullets
 
 **Plus**
 - Video scoreboards on corners
-- Correct position
 - FM13, FM14, FM26
 
 **Minus**
-- Behind-goal boards break
-- Marathon/main boards break
-- All corner sizes look like Large A
-- Needs backup before install
+- Corners only (other stands break)
+- Roof build order matters
+- May need to extend roof for visibility
